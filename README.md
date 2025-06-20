@@ -1,1 +1,0 @@
-# medication-management-project
